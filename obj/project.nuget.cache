@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQIo4xani7gYs4axuvLjTX1IfN2mfObU/KLrjOiIqiAGlVDODpgClQP/7eRRZj7HZeyyikuq/MDNPPm0pICuEg==",
+  "success": true,
+  "projectFilePath": "D:\\C##\\budget\\budget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
